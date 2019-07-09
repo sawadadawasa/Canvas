@@ -5,7 +5,7 @@ public class Test2_1 {
 	String textString  = "sss";
 	
 	
-	int num1;
+	int num12;
 	
 	
 }
